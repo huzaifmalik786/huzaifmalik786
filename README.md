@@ -56,14 +56,23 @@
 ---
 
 ### :fire: My Stats :
+<div>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=pie&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=pie"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=pie" />
+</picture>
+</div>
 <div align="end">
   <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="300"/>
 </div>
 
-<!--
-<div id="header" align="center">
-  <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="100"/>
-</div>
 <!--
 **huzaifmalik786/huzaifmalik786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
