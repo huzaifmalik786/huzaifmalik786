@@ -59,14 +59,14 @@
   <div align="center" >
     <picture>
       <source
-        srcset="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"
+        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&theme=highcontrast&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"
+        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&hide_border=true"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" />
+      <img src="https://streak-stats.demolab.com/?user=huzaifmalik786" />
   </picture>
   <picture>
     <source
