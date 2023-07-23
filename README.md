@@ -56,8 +56,7 @@
 ---
 
 ### :fire: My Stats :
-  <div align="center" >
-    <picture>
+  <picture>
       <source
         srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&theme=highcontrast&hide_border=true"
         media="(prefers-color-scheme: dark)"
@@ -79,10 +78,10 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact" />
   </picture>
-  </div>
   
   <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="300"/>
 
+![Snake animation](https://github.com/huzaifmalik786/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **huzaifmalik786/huzaifmalik786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
