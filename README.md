@@ -81,7 +81,7 @@
   
   <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="300"/>
 
-![Snake animation](https://github.com/huzaifmalik786/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/huzaifmalik786/huzaifmalik786/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **huzaifmalik786/huzaifmalik786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
