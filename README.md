@@ -35,23 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" **alt="mongo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>  
+  <img align="right" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="250"/>
+  
 </div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    height="auto"
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ---
 
@@ -79,9 +65,23 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact" />
   </picture>
   
-  <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="300"/>
 
-![Snake animation](https://github.com/huzaifmalik786/huzaifmalik786/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/huzaifmalik786/huzaifmalik786/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/huzaifmalik786/huzaifmalik786/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    height="auto"
+    alt="github contribution grid snake animation"
+    src="https://github.com/huzaifmalik786/huzaifmalik786/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!--
 **huzaifmalik786/huzaifmalik786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
