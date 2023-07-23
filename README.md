@@ -11,11 +11,26 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<!--   <img src="https://komarev.com/ghpvc/?username=huzaifmalik786&style=flat-square&color=blue" alt=""/> -->
+  <h1>
+  Hello, I'm Huzaif Malik
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on LeetCode.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huzaif-malik-8ab2b5232/)
+<img align="right" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="250"/>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,34 +50,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" **alt="mongo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>  
-  <img align="right" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="250"/>
-  
 </div>
 
 ---
 
 ### :fire: My Stats :
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifmalik786&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/> | <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact&langs_count=16&theme=vision-friendly-dark"/> |
+| ------------- | ------------- |
+
+
   <picture>
       <source
-        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&theme=highcontrast&hide_border=true"
+        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&theme=highcontrast"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786&hide_border=true"
+        srcset="https://streak-stats.demolab.com/?user=huzaifmalik786"
         media="(prefers-color-scheme: light)"
       />
       <img src="https://streak-stats.demolab.com/?user=huzaifmalik786" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifmalik786&layout=compact" />
   </picture>
   
 
